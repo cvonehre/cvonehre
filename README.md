@@ -1,11 +1,10 @@
 <h3 align="left">Hello 👋</h3>
-
-<h5 align="left">I'm Cason vonEhrenkrook</h5>
+I'm Cason vonEhrenkrook
 
 - CS Student at Purdue University
 
 <h3 align="left">💻 I'm Currently Learning</h3>
-<h5 align="left">**Purdue University**</h5>
+**Purdue University**
 
 - CS240 Programming with C
 - MA265 Linear Algebra
