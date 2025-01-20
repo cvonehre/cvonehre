@@ -1,13 +1,12 @@
 <h3 align="left">Hello 👋</h3>
-<hr>
 
 <p>I'm Cason vonEhrenkrook</p>
 <ul>
   <li>CS Student at Purdue University</li>
 </ul>
 
-<h3 align="left">💻 I'm Currently Learning</h3>
 <hr>
+<h3 align="left">💻 I'm Currently Learning</h3>
 
 <p><strong>Purdue University</strong></p>
 <ul>
@@ -16,8 +15,8 @@
   <li>CS182 Discrete Mathematics</li>
 </ul>
 
-<h3 align="left">Languages and Tools:</h3>
 <hr>
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
