@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Cason vonEhrenkrook</h1>
-- 🌱 I’m currently learning **C, C++**
+<h3 align="left">Hello 👋</h3>
+
+<h5 align="left">I'm Cason vonEhrenkrook</h5>
+
+- CS Student at Purdue University
+
+<h3 align="left">💻 I'm Currently Learning</h3>
+<h5 align="left">**Purdue University**</h5>
+
+- CS240 Programming with C
+- MA265 Linear Algebra
+- CS182 Discrete Mathematics
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
